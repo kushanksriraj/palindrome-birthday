@@ -64,6 +64,7 @@ label {
 button {
     display: block;
     margin: 2rem auto;
+    margin-bottom: 1rem;
     padding: 0.5rem;
     color: white;
     background-color: purple;
@@ -75,6 +76,7 @@ button {
 }
 
 #warn {
+    margin-top: 1rem;
     color: red;
     font-size: 1rem;
     text-align: center;
@@ -83,6 +85,7 @@ button {
 
 .output {
     margin: auto;
+    margin-top: 1rem;
     width: 100%;
 }
 
