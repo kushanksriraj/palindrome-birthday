@@ -55,10 +55,12 @@ input {
 }
 
 label {
-    font-size: 1.2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: purple;
     text-align: center;
     display: block;
-    margin: 2rem 0;
+    margin-bottom: 1rem;
 }
 
 button {
@@ -128,8 +130,8 @@ button {
     display: block;
     margin: auto;
     border-radius: 5px;
-    width: 150px;
-    height: 140px;
+    width: 100px;
+    height: 100px;
 }
 
 
